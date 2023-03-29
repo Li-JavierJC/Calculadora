@@ -1,0 +1,13 @@
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calculadora.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
